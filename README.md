@@ -1,2 +1,2 @@
 # Digital-Clock
-Little project that i made a digital clock in C
+Little project where i made a digital clock in C.
