@@ -1,2 +1,2 @@
 # Digital-Clock
-Relogio Digital em C
+Little project that i made a digital clock in C
